@@ -12,8 +12,10 @@ In this project, I’ll learn how to:
 📊 Feature Engineering & Distance Metrics: Extract high-value performance from the dataset by transforming categorical strings into structured encoded variables and optimizing distance matrices for accurate neighborhood scoring.
 
 🌍 Real-World Problem Solving: Demonstrate an analytical mindset for dealing with inconsistent data distributions and incomplete records, a critical skill for delivering clean, fully-imputed datasets prior to the final modeling phase.
+______
 
 🎯 Who Should Use This Project?
+
 🧑‍💻 Data Scientists & ML Engineers building robust preprocessing pipelines for predictive modeling and classification tasks.
 
 📊 Data Analysts looking to upgrade from basic statistical imputation (mean/median) to advanced, algorithm-driven data recovery.
@@ -24,5 +26,5 @@ In this project, I’ll learn how to:
 
 📁 Files Included (Add your file names here, e.g., notebook.ipynb, dataset.csv)
 
-
+______
 👩‍💻 Created by Javier Marquez
