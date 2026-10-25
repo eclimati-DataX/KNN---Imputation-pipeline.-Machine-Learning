@@ -1,2 +1,2 @@
 # KNN---Imputation-pipeline.-Machine-Learning
-Predictive imputation and classification pipeline powered by a KNN architecture. Key processes involve missing value resolution using advanced imputation techniques, categorical variable encoding, feature scaling, and optimization of distance metrics to eliminate chained assignment risks and guarantee high data quality.
+Predictive imputation and classification pipeline powered by a K-Nearest Neighbors (KNN) architecture. Key processes involve missing value resolution using advanced imputation techniques, categorical variable encoding, feature scaling, and optimization of distance metrics to eliminate chained assignment risks and guarantee high data quality for robust analytical profiling.
