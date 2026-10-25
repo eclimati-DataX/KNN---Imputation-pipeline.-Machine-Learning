@@ -2,8 +2,9 @@
 Predictive imputation and classification pipeline powered by a K-Nearest Neighbors (KNN) architecture. Key processes involve missing value resolution using advanced imputation techniques, categorical variable encoding, feature scaling, and optimization of distance metrics to eliminate chained assignment risks and guarantee high data quality for robust analytical profiling.
 
 ______
-🚀 Project Highlights
-In this project, I’ll learn how to:
+🚀 Project Highlights In this project,
+
+I’ll learn how to:
 
 🔮 KNN Modeling & Predictive Imputation: Demonstrate the ability to ingest incomplete feature sets and deploy K-Nearest Neighbors (KNN) architectures to mathematically infer and impute missing attributes based on spatial proximity.
 
